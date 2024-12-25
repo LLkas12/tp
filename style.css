@@ -1,0 +1,52 @@
+
+/* .class */
+.hello {
+    color:blue;
+}
+.f1 {
+    color:aqua;
+    /* color */
+}
+.f2 {
+    color:chocolate;
+}
+/* tag */
+body {
+    background-color:azure;
+    /* arriere_plan */
+}
+body {
+    font-family:cursive; 
+    /* police */
+    font-size: 30px ;
+    /* taille */
+}
+.jiji {
+    background-color: aqua;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 20px;
+}
+.jija {
+    background-color: pink;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+.jo {
+    text-align: center;
+}
+img {
+    border-radius: 20px;
+    height: 1000px ;
+    width: 500px;
+}
+.big {
+    height: 1000px ;
+    width: 500px;
+    border: 2px solid black;
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items:baseline;
+}
